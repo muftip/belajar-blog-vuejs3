@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "artikel pertama",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+         "web",
+         "vue",
+         "node"
+      ] 
+    },
+    {
+      "id": "2",
+      "title": "artikel kedua",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+         "js",
+         "html",
+         "css"
+      ] 
+    }
+  ]
+}
